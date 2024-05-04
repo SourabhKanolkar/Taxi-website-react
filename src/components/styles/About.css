@@ -1,0 +1,12 @@
+.about-heading{
+    font-size: 28px;
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+}
+#about-us-section{
+    padding: 60px 0;
+}
+.bi-check2-all{
+    color: #ffc451;
+    font-size: 20px;
+}

@@ -1,0 +1,17 @@
+#contact-us-section{
+    padding: 70px 0;
+    
+}
+.contact-icons{
+    font-size: 20px;
+    background: #ffc451;
+    color: #151515;
+    float: left;
+    width: 44px;
+    height: 44px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    transition: all 0.3s ease-in-out;
+}

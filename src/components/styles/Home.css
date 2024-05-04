@@ -1,0 +1,67 @@
+#home-page-section{
+    background: url("../../assets/taxi.jpg");
+ background-size: cover;
+ position: relative;
+ height: 100%;
+ padding-bottom: 100px;
+
+
+}
+#home-page-section::before{
+    content: "";
+    background: rgb(0 0 0 / 85%);
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+#home-page-section .container {
+    position: relative; /* Add this line to ensure the container is positioned relative to the section */
+  }
+  
+  #home-page-section h2 {
+    position: relative; /* Add this line to ensure the text is positioned relative to its container */
+    color: #fff;
+    font-size: 56px;
+    font-weight: 700;
+  }
+  .cl-now-btn{
+    background: transparent;
+    color: #ffc451;
+    border: 2px solid #ffc451;
+  }
+  .cl-now-btn:hover{
+    background: transparent;
+    color: #ffc451;
+    border: 2px solid #ffc451;
+  }
+  .box-home{
+    border: 1px solid #ffc451;
+    width: 230px;
+    padding: 10px 0;
+  }
+  @media screen and (max-width: 480px) {
+    .get-btn{
+      display: none;
+    }
+  }
+  .logo{
+    height: 120px;
+    width: 120px;
+  }
+  @media screen and (max-width:480px) {
+    .logo{
+      height: 100px;
+      width: 100px;
+    }
+  }
+  .home-call-btn{
+    background: transparent;
+    border: 2px solid #ffc451;
+    padding: 7px 20px;
+  }
+  .home-call-btn:hover{
+    background: transparent;
+    border: 2px solid #ffc451;
+  }

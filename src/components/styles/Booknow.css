@@ -1,0 +1,25 @@
+#booknow-section{
+    padding: 60px 0;
+   background: #ffc451;
+}
+.cta-btn{
+    background: transparent !important;
+    color: #000000;
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding: 8px 28px;
+
+}
+.cta-chat{
+    border: 2px solid green;
+}
+.cta-btn:hover{
+    background-color: rgb(66, 64, 64) !important;
+}
+@media screen and (max-width: 480px) {
+    .cta-chat{
+        margin-top: 7px;
+    }
+  }

@@ -1,0 +1,32 @@
+@media screen and (min-width: 480px) {
+    .navbar-phone{
+        margin: 0 250px;
+        padding: 0 15px;
+    }
+  }
+  .nav-link{
+    font-size: 15px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    color: #fff;
+    
+  }
+  .nav-link:hover{
+    color: #ffc451;
+  }
+  .navbar{
+    background: transparent !important;
+ 
+   
+}
+  .nav-link:active{
+    color: #ffc451;
+  }
+  .get-btn{
+    background: transparent !important;
+    color: #ffc451;
+    border: 2px solid #ffc451;
+  }
+  .test-navbar{
+    background: rgba(0, 0, 0, 0.8) !important;
+  }
