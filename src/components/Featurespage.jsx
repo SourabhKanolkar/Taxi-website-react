@@ -12,20 +12,20 @@ export default function Featurespage() {
                     <div className="col-lg-12">
                         <div className="row">
                             <div className="col-lg-6 mt-3">
-                                <img style={{borderRadius:"7px"}} className='img-fluid' src='https://profalo.in/ajittaxi/assets/img/my/water.jpg' alt='imag'></img>
+                                <img style={{borderRadius:"7px",height:"200px"}} className='img-fluid'  src='https://profalo.in/ajittaxi/assets/img/my/water.jpg' alt='imag'></img>
                             </div>
                             <div className="col-lg-6 mt-3">
-                            <img style={{borderRadius:"7px"}} className='img-fluid' src='https://profalo.in/ajittaxi/assets/img/my/water.jpg' alt='imag'></img>
+                            <img style={{borderRadius:"7px",height:"200px"}} className='img-fluid'  src='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/3e/36/95/baga-sea-beach.jpg?w=800&h=-1&s=1' alt='imag'></img>
                             </div>
                         </div>
                     </div>
                     <div className="col-lg-12">
                         <div className="row">
                             <div className="col-lg-6 mt-3">
-                                <img style={{borderRadius:"7px"}} className='img-fluid' src="https://profalo.in/ajittaxi/assets/img/my/mangeshi.jpg" alt="charuch" />
+                                <img style={{borderRadius:"7px",height:"200px"}} className='img-fluid'  src="https://profalo.in/ajittaxi/assets/img/my/mangeshi.jpg" alt="charuch" />
                             </div>
                             <div className="col-lg-6 mt-3">
-                                <img style={{borderRadius:"7px"}} className='img-fluid' src="https://profalo.in/ajittaxi/assets/img/my/mangeshi.jpg" alt="beach" />
+                                <img style={{borderRadius:"7px",height:"200px"}} className='img-fluid'  src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Basilica_of_bom_jesus_-_Front_View.jpg" alt="beach" />
                             </div>
                         </div>
                     </div>

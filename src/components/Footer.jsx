@@ -1,5 +1,6 @@
 import React from 'react'
 import './styles/Footer.css'
+import clogo from '../assets/company-logo.png'
 
 
 export default function Footer() {
@@ -51,6 +52,10 @@ Dudhsagar Falls Cabs</a></li>
                 </div>
                 <div className="col-lg-4 col-md-6">
                    <h4 style={{color:'#fff',fontSize:'16px',fontWeight:'600',paddingBottom:"12px"}}>Rudransh Taxi Service- Goa</h4>
+                   <p style={{color:"#fff",fontSize:"15px"}} className='lead'>&#169; All Rights Reserved By Rudransh Taxi Service</p>
+                   <p style={{color:"#fff",fontSize:"15px"}} className='lead'>&#169; Designed by Avanteia</p>
+
+                   <a href="https://www.avanteia.com/"><img src={clogo} className='img-fluid' style={{width:"200px",height:"160px"}} alt="logo-company" /></a>
                   
                 </div>
             </div>

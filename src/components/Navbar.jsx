@@ -44,39 +44,39 @@ export default function Navbar() {
                   Home
                 </a>
               </li>
-              <li className="nav-item">
+              <li className="nav-item  ">
                 <a className="nav-link" href="#about-us-section">
                   About
                 </a>
               </li>
-              <li className="nav-item">
+              <li className="nav-item ">
                 <a className="nav-link" href="#packages-section-1">
                   Packages
                 </a>
               </li>
-              <li className="nav-item">
+              <li className="nav-item ">
                 <a className="nav-link" href="#specialpack-section">
                   Specials Packages
                 </a>
               </li>
-              <li className="nav-item">
+              <li className="nav-item ">
                 <a className="nav-link" href="#service-section">
                   Service
                 </a>
               </li>
-              <li className="nav-item">
+              <li className="nav-item ">
                 <a className="nav-link" href="#cars-section">
                   Cars
                 </a>
               </li>
-              <li className="nav-item">
+              <li className="nav-item ">
                 <a className="nav-link" href="#contact-us-section">
                   Contact
                 </a>
               </li>
             </ul>
           </div>
-          <button className="btn btn-danger get-btn">Get Started</button>
+          <a href="https://wa.me/918806997971" className='btn btn-primary get-btn'> <i className="bi bi-whatsapp"></i> Whats App</a>
         </div>
       </nav>
     </>

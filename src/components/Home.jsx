@@ -18,7 +18,7 @@ export default function Home() {
                      
                      {/* <button className='btn btn-danger cl-now-btn ms-3 me-3 '><i className="bi bi-telephone-fill animate__animated  animate__fadeIn "></i> <a href='#contact-us-section'></a>Call Now</button> */}
 
-                     <a  className='btn btn-primary home-call-btn '  href="#booknow-section"> <i style={{marginRight:"5px"}} className="bi bi-telephone-fill animate__animated  animate__fadeIn "></i>Call Now</a>
+                     <a  className='btn btn-primary home-call-btn '  href="tel:8806997971"> <i style={{marginRight:"5px"}} className="bi bi-telephone-fill animate__animated  animate__fadeIn "></i>Call Now</a>
                    
                 </div>
             </div>

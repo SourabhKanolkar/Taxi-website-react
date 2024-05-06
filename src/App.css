@@ -1,7 +1,10 @@
 @media screen and (min-width: 480px) {
     .navbar-phone{
-        margin: 0 250px;
+        margin: 0 210px;
         padding: 0 15px;
+    }
+    .nav-item{
+      margin: 0 7px;
     }
   }
   .nav-link{
@@ -26,6 +29,10 @@
     background: transparent !important;
     color: #ffc451;
     border: 2px solid #ffc451;
+  }
+  .get-btn:hover{
+    border: 2px solid #ffc451;
+    color: rgb(42, 222, 42);
   }
   .test-navbar{
     background: rgba(0, 0, 0, 0.8) !important;
