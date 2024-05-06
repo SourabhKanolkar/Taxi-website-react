@@ -14,7 +14,7 @@ export default function Contactus() {
                 <div className="col-lg-4 col-md-6">
                 <i className="bi bi-geo-alt-fill contact-icons"></i>
                 <h4 style={{fontSize:"22px",fontWeight:"600",marginBottom:"5px",paddingLeft:"60px"}}>Loaction:</h4>
-                <p style={{paddingLeft:'60px',fontSize:"14px",color:"#484848"}}>Goa,india</p>
+                <p style={{paddingLeft:'60px',fontSize:"14px",color:"#484848"}}>Khobra Waddo, Calangute, Goa 403516</p>
                 </div>
                 <div className="col-lg-4 col-md-6">
                 <i className="bi bi-telephone-fill contact-icons"></i>

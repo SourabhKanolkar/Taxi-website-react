@@ -12,7 +12,7 @@ export default function Footer() {
                 <div className="col-lg-3 col-md-6">
                     <div className="footer-info">
                         <h3 style={{fontSize:"28px",marginBottom:"20px",fontWeight:"700",textTransform:"uppercase",color:"#fff"}}> Rudransh Taxi Service Goa</h3>
-                        <p style={{color:"#fff"}}>Goa,india</p>
+                        <p style={{color:"#fff"}}>Khobra Waddo, Calangute,<br></br> Goa 403516</p>
                     </div>
 
                 </div>
